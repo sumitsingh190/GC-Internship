@@ -25,5 +25,7 @@ Click on the image below to get started.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2sjqTHE0zok/0.jpg)](https://www.youtube.com/watch?v=2sjqTHE0zok)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+## Useful Links
+https://huru.ai/
+https://github.com/ashishps1
+https://www.boot.dev
