@@ -18,7 +18,7 @@ Click on the image below to get started.
 
 
 
-## Resource 1: View this Course at your liesure. 
+## Resource S: View at your liesure. 
 
 ### MIT Missing Semester Parts 1-7
 
